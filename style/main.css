@@ -1,0 +1,59 @@
+.center {
+    text-align:  center;
+   }
+.inline-block {
+    display: inline-block;
+    height: 100px;
+    width: 33%;
+    text-align: center;
+}
+.round {
+    padding: 20px;
+    width: 70px;
+    height: 70px;
+    border: 1px solid#E72424;
+    border-radius: 50%;
+    background: white;
+  }
+.open_font {
+      font-family: open sans;
+      font-weight: 400;
+      font-size: 14px;
+      font-style: normal;
+      text-align: center;
+      margin: 20px;
+  }
+.open_font_sub {
+    font-family: open sans;
+    font-weight: 400;
+    font-size: 14px;
+    font-style: normal;
+    text-align: center;
+    color: #86878B;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.open_font_sub_block {
+    font-family: open sans;
+    font-weight: 700;
+    font-size: 20px;
+    font-style: normal;
+    text-align: center;
+}
+.raleway_font {
+    font-family: raleway;
+    font-weight: 400;
+    font-size: 36px;
+    font-style: normal;
+    text-align: center;
+    margin: 100px 0px 0px 0px;
+}
+.red_line{
+    width: 64px;
+    text-align: center;
+    border: 1px solid #E72424;
+    margin-top: 40px;
+}
+.main_margin{
+    margin: 70px;
+}
