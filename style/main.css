@@ -8,13 +8,19 @@
     text-align: center;
 }
 .round {
+    display: inline-block;
     padding: 20px;
     width: 70px;
     height: 70px;
     border: 1px solid#E72424;
     border-radius: 50%;
     background: white;
-  }
+    
+  }  
+.round img {
+      margin: 25% auto;
+      height: 50%;
+    }
 .open_font {
       font-family: open sans;
       font-weight: 400;
